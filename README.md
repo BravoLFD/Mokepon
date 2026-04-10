@@ -13,4 +13,12 @@ Frontend built with JavaScript, HTML, and CSS
 Backend server implemented using Node.js
 Custom improvements in game logic beyond the original course material
 
+
+# Note
+This project includes multiple versions to show the learning process.
 Although the game works correctly, there are still several improvements to be made to optimize the experience and add new features.
+
+# Structure
+/frontend → final playable version
+/versions → project evolution
+/backend → multiplayer tests
