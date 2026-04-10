@@ -20,5 +20,7 @@ Although the game works correctly, there are still several improvements to be ma
 
 # Structure
 /frontend → final playable version
+
 /versions → project evolution
+
 /backend → multiplayer tests
